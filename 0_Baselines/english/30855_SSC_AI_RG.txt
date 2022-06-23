@@ -1,0 +1,53 @@
+The Group changed its financial reporting reference date in 2014, hence the graphs show full 12 month figures on either a March or December year-end basis.
+*  London Stock Exchange Group uses non-GAAP performance measures as key financial indicators as the Board believes these better reflect the underlying performance of the business.
+Exchange Traded Products – Group
+1.  London Stock Exchange Group uses non-GAAP performance measures as key financial indicators as the Board believes these better reflect the underlying performance of the business.
+Post Trade Services – LCH comprises the Group’s majority owned global clearing 
+– Maintaining a strong risk culture throughout the Group: the Risk Management 
+– The Board is responsible for determining the Group Risk Appetite.
+– The Executive Financial and Operational Risk Committees monitor and report  
+– The Group has a Business Continuity Management framework in place which  
+For more information, see Market trends and our response on pages 12–15, and Note 2 to the accounts, Financial Risk Management on pages 120–124.
+– ensures proper financial and business control is exercised within the Group 
+– chairs the Group Executive Committee 
+– Reviewing and recommending to the Board the Group Risk Appetite, including 
+– Monitoring of geopolitical risks including the Group’s Spanish exposure  
+– Ensuring the effectiveness of the Group’s Enterprise-wide Risk Management 
+– Reviewing detailed reports of the risk profiles of the Group’s material businesses 
+– Monitoring compliance with the Group risk management procedures as 
+– Reviewing the adequacy of the Group’s Business Continuity Management  
+– In our capital markets business, revenues increased 6% to £391 million (2016: 
+The Committee continues to ensure the Group’s approach to remuneration takes into account best practice and market trends in the financial services sector and wider 
+– Strategic increase of shareholding in LCH Group from 58% to 66% and 10 year 
+– The Executive Directors’ awards are funded from the Group bonus pool; their 
+– state whether the Group and the Company financial statements have been 
+– the Group and the Company financial statements, which have been prepared  
+– the Group financial statements have been properly prepared in accordance  
+In the prior year, our auditor’s report included a key audit matter in relation to the risk that the divestment of the Russell Investment Management business was 
+Governance Independent Auditor’s Report  – the parent company financial statements and the part of the Directors’ 
+– We assessed the susceptibility of the Group’s financial statements to material 
+This includes clearing operations at the Group’s CCPs (at LCH Group and CC&G) that adhere to local regulation and operate under approved risk and investment policies.
+The Group Chief Risk Officer’s team provides assurance that the governance and operational controls are effective to manage risks within the Board approved risk 
+provide the Group’s senior management with assurance that the treasury and risk operations are performed in accordance with Group Board approved policies and 
+Risk Committee includes oversight of the Group’s Capital Management Policy.
+Group financial statements Notes to the financial statements Market risk – Cash Flow and Fair Value Interest Rate Risk
+Defined benefit pension asset or liability – determined based on the present value of future pension obligations using assumptions determined by the Group with 
+CCP trading assets and trading liabilities – The Group uses its judgement to carry out the offsetting within clearing member balances.
+The Group is organised into operating units based on its service lines and has 6 reportable segments: Information Services, Post Trade Services – LCH, Post Trade 
+– Post Trade Services – LCH – Fees based on CCP and clearing services provided, non-cash collateral management and net interest earned on cash held for margin  
+– Capital Markets – Admission fees from initial listing and further capital raises, annual fees charged for securities traded on the Group’s markets, and fees from  
+During the year the Group recognised a total of £7 4 million (2016: £140 million) of net treasury income on financial assets 
+During the year the Group recognised a total of £60 million (2016: £62 million) of net interest expense on financial assets and liabilities held at amortised cost, 
+During the year, the Group recognised US$18 million (£13 million) current tax and other receivable in relation to the disposed business.
+During the year, the Group acquired the entire share capital of the Mergent and Yield Book businesses, which resulted in an increase of £289 million in goodwill.
+140 London Stock Exchange Group Annual Report December 2017 Changes in the present value of the defined benefit obligations during the year
+142 London Stock Exchange Group Annual Report December 2017 Consistent with the current year treatment, prepayments within trade and other receivables are not classified as financial instruments.
+The following table provides the fair value measurement hierarchy of the Group’s financial assets and liabilities as at 31 December 201 7:
+Group financial statements Notes to the financial statements The following table provides the fair value measurement hierarchy of the Group’s financial assets and liabilities as at 31 December 2016:
+The Group’s financial assets and liabilities held at fair value consist largely of securities restricted in use for the operations of the Group’s CCPs as managers of their 
+144 London Stock Exchange Group Annual Report December 2017 As at 31 December 201 7 , there were no provisions for impairment in relation to any of the CCP financial assets (2016: nil) and none of these assets were past due (2016: nil).
+For the year ended 31 December 201 7 , the Group recognised a net £5 million loss on mark to market valuation and settlement of these derivatives in reserves (2016: £54 
+The Group retained total committed bank facilities of £1,200 million during the financial year.
+148 London Stock Exchange Group Annual Report December 2017 The fair values of the Company’s borrowings are as follows:
+On 3 January 201 7 , the Group acquired the entire share capital of Mergent, a leading global provider of business and financial information on public and private 
+International Order Book – the Group’s electronic trading service for  
