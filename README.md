@@ -1,4 +1,4 @@
-# DiMSum FNS2022
+# DiMSum FNP 2022
 DiMSum at FNS 2022 Task Repo
 
 This repo has been created to work on the task FNS 2022 http://wp.lancs.ac.uk/cfie/fns2022/ for the paper:
