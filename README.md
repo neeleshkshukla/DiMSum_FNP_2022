@@ -3,7 +3,7 @@ FNS 2022 Task Repo
 
 This repo has been created to work on the task FNS 2022 http://wp.lancs.ac.uk/cfie/fns2022/ for the paper:
 
-DiMSum: Distributed and Multilingual Summarization of Financial Narratives; Neelesh K Shukla, Amit Vaid, Raghu C Katikeri, Sangeeth Keeriyadath, Msp Raja; Proceedings of the The 4th Financial Narrative Processing Workshop @LREC2022 pp 65-72 [Paper]([https://link-url-here.org](http://www.lrec-conf.org/proceedings/lrec2022/workshops/FNP/pdf/2022.fnp-1.9.pdf))
+DiMSum: Distributed and Multilingual Summarization of Financial Narratives; Neelesh K Shukla, Amit Vaid, Raghu C Katikeri, Sangeeth Keeriyadath, Msp Raja; Proceedings of the The 4th Financial Narrative Processing Workshop @LREC2022 pp 65-72 [Paper]([https://link-url-here.org](http://www.lrec-conf.org/proceedings/lrec2022/workshops/FNP/pdf/2022.fnp-1.9.pdf])
 
 Please cite us:
 
