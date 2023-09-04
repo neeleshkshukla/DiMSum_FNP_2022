@@ -45,20 +45,21 @@ def get_rouge_scores(system_summary_dir, gold_summary_dir):
                     with open(os.path.join(gold_summary_dir, sum_file), "r", encoding='utf-8') as f:
                         gold_sum_txt = f.read()
                         sum_scores = scorer.score(gold_sum_txt, system_summary_txt)
-                sum_rouge_scores['rouge-1']['p'] = sum_rouge_scores['rouge-1']['p'] + sum_scores['rouge1'][0]
-                sum_rouge_scores['rouge-1']['r'] = sum_rouge_scores['rouge-1']['r'] + sum_scores['rouge1'][1]
-                sum_rouge_scores['rouge-1']['f'] = sum_rouge_scores['rouge-1']['f'] + sum_scores['rouge1'][2]
-                sum_rouge_scores['rouge-2']['p'] = sum_rouge_scores['rouge-2']['p'] + sum_scores['rouge2'][0]
-                sum_rouge_scores['rouge-2']['r'] = sum_rouge_scores['rouge-2']['r'] + sum_scores['rouge2'][1]
-                sum_rouge_scores['rouge-2']['f'] = sum_rouge_scores['rouge-2']['f'] + sum_scores['rouge2'][2]
-                num_sum_file = num_sum_file + 1
+                        sum_rouge_scores['rouge-1']['p'] = sum_rouge_scores['rouge-1']['p'] + sum_scores['rouge1'][0]
+                        sum_rouge_scores['rouge-1']['r'] = sum_rouge_scores['rouge-1']['r'] + sum_scores['rouge1'][1]
+                        sum_rouge_scores['rouge-1']['f'] = sum_rouge_scores['rouge-1']['f'] + sum_scores['rouge1'][2]
+                        sum_rouge_scores['rouge-2']['p'] = sum_rouge_scores['rouge-2']['p'] + sum_scores['rouge2'][0]
+                        sum_rouge_scores['rouge-2']['r'] = sum_rouge_scores['rouge-2']['r'] + sum_scores['rouge2'][1]
+                        sum_rouge_scores['rouge-2']['f'] = sum_rouge_scores['rouge-2']['f'] + sum_scores['rouge2'][2]
+                        num_sum_file = num_sum_file + 1
 
-            sum_rouge_scores['rouge-1']['p'] = sum_rouge_scores['rouge-1']['p'] / (num_sum_file)
-            sum_rouge_scores['rouge-1']['r'] = sum_rouge_scores['rouge-1']['r'] / (num_sum_file)
-            sum_rouge_scores['rouge-1']['f'] = sum_rouge_scores['rouge-1']['f'] / (num_sum_file)
-            sum_rouge_scores['rouge-2']['p'] = sum_rouge_scores['rouge-2']['p'] / (num_sum_file)
-            sum_rouge_scores['rouge-2']['r'] = sum_rouge_scores['rouge-2']['r'] / (num_sum_file)
-            sum_rouge_scores['rouge-2']['f'] = sum_rouge_scores['rouge-2']['f'] / (num_sum_file)
+            if num_sum_file > 0:
+                sum_rouge_scores['rouge-1']['p'] = sum_rouge_scores['rouge-1']['p'] / (num_sum_file)
+                sum_rouge_scores['rouge-1']['r'] = sum_rouge_scores['rouge-1']['r'] / (num_sum_file)
+                sum_rouge_scores['rouge-1']['f'] = sum_rouge_scores['rouge-1']['f'] / (num_sum_file)
+                sum_rouge_scores['rouge-2']['p'] = sum_rouge_scores['rouge-2']['p'] / (num_sum_file)
+                sum_rouge_scores['rouge-2']['r'] = sum_rouge_scores['rouge-2']['r'] / (num_sum_file)
+                sum_rouge_scores['rouge-2']['f'] = sum_rouge_scores['rouge-2']['f'] / (num_sum_file)
 
             rouge_scores['rouge-1']['p'] = rouge_scores['rouge-1']['p'] + sum_rouge_scores['rouge-1']['p']
             rouge_scores['rouge-1']['r'] = rouge_scores['rouge-1']['r'] + sum_rouge_scores['rouge-1']['r']
